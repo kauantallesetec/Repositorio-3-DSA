@@ -1,1 +1,0 @@
-Futuramente farei um readme bonitinho

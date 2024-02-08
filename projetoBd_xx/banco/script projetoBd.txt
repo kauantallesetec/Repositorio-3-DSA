@@ -1,0 +1,11 @@
+create database bd_projeto_xx;
+
+use bd_projeto_xx;
+
+create table tb_cliente_xx (
+  id_cliente int not null auto_increment primary key,  
+  nome_cliente varchar(40) not null,
+  rg_cliente varchar(14) not null,
+  cpf_cliente char(11) not null,
+  email_cliente varchar(50) 
+);
